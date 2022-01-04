@@ -99,8 +99,6 @@ void main()
 		else
 			{
 			printf("Queue :\n");
-			printf("front :%d",front);
-			printf("rare :%d",rare);
 			for(i=front;i<=rare;i++)
 				{
 				printf("%d\n",queue[i]);
